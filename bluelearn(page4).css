@@ -1,0 +1,146 @@
+body{
+    width:1770px;
+    height:1000px;
+    background-color:white;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+h2{
+    width:1500px;
+    text-align: center;
+    font-size: 40px;
+    padding-top:30px ;
+    padding-bottom: 50px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+p{
+    
+    padding-left: 20px;
+    text-align:justify;
+    padding: 5px 20px;
+    margin: 10px;
+}
+
+#page4{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    font-family:'Arial Narrow Bold'; 
+    flex-wrap: wrap;
+
+ }
+ 
+ 
+#one{
+    height: 270px;
+    width:300px;
+    background-color: rgb(247, 236, 222);
+    border-radius: 25px;
+    margin: 15px;
+    margin-top:250px;
+    margin-bottom: 200px;
+}
+#three{
+    height:290px ;
+    width: 300px;
+    background-color: rgb(208, 229, 229);
+    border-radius: 25px;
+    margin: 15px;
+    margin-top:45px;
+}
+#two{
+    width:250px;
+    height: 360px;
+    background-color: rgb(204, 230, 221);
+    border-radius: 25px;
+    margin: 15px;
+    margin-top: 0px;
+    
+}
+#four{
+    width:250px;
+    height: 320px;
+    background-color: rgb(243, 235, 224);
+    border-radius: 25px;
+    margin: 15px;
+    
+}
+#five{
+    width:250px;
+    height: 340px;
+    background-color: rgb(213, 233, 226);
+    border-radius: 25px;
+    margin: 15px;
+}
+#six{
+    width: 250px;
+    height:320px;
+    background-color: rgb(199, 218, 231);
+    border-radius: 25px;
+    margin: 15px;
+    position: absolute;
+    left:340px ;
+    top:565px;
+    
+}
+#seven{
+ width:300px;
+ height: 300px;
+ background-color:rgb(244, 243, 208) ;
+ border-radius: 25px;
+ margin: 15px;
+ position: absolute;
+ left:620px ;
+ top:540px;
+}
+#eight{
+    width:250px;
+    height: 340px;
+    background-color: rgb(196, 205, 205);
+    border-radius: 25px;
+    margin: 15px;
+    position: absolute;
+    left:950px;
+    top:540px;
+}
+#nine{
+    width:250px ;
+    height:320px ;
+    background-color: rgb(220, 220, 167);
+    border-radius: 25px;
+    margin: 15px;
+    position: absolute;
+    left: 1228px;
+    top:560px;
+}
+
+
+
+    #ten{
+    width:250px;
+    height:370px;
+    border-radius: 25px;
+    margin: 15px;
+    background-color: rgb(236, 223, 206);
+    position:absolute;
+    left:1500px;
+    top:135px;
+
+    }
+    #eleven{
+    width:250px;
+    height:360px;
+    background-color: rgb(192, 229, 239);
+    margin: 15px;
+    border-radius:25px;
+    position: absolute;
+    left:1500px;
+    top:525px;
+    }
